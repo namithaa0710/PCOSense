@@ -1,12 +1,17 @@
 # PCOSense: Your Intelligent PCOS Companion
 
-<p align="center">
-  <a href="https://youtu.be/2MioR7f-5Vo?si=2QtW7p5K0Yb4B12V" target="_blank">
-    <img src="https://img.youtube.com/vi/2MioR7f-5Vo/0.jpg" alt="PCOSense Demo Video" width="400"/>
-    <br>
-    <strong>▶️ Click to Watch the PCOSense Demo</strong>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="150">
+      <a href="https://youtu.be/2MioR7f-5Vo?si=2QtW7p5K0Yb4B12V" target="_blank">
+        <img src="https://img.youtube.com/vi/2MioR7f-5Vo/0.jpg" alt="PCOSense Demo Video" width="150"/>
+      </a>
+    </td>
+    <td>
+      <h3>🎬 <a href="https://youtu.be/2MioR7f-5Vo?si=2QtW7p5K0Yb4B12V" target="_blank">Click here to watch the PCOSense Demo Video</a></h3>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>📑 Table of Contents (click to expand)</strong></summary>
