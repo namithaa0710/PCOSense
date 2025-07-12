@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/2MioR7f-5Vo?si=2QtW7p5K0Yb4B12V" target="_blank">
-    <img src="https://img.youtube.com/vi/2MioR7f-5Vo/0.jpg" alt="PCOSense Demo Video" width="600"/>
+    <img src="https://img.youtube.com/vi/2MioR7f-5Vo/0.jpg" alt="PCOSense Demo Video" width="400"/>
     <br>
     <strong>▶️ Click to Watch the PCOSense Demo</strong>
   </a>
