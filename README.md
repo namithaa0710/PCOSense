@@ -1,27 +1,29 @@
 # PCOSense: Your Intelligent PCOS Companion
 
-## Table of Contents
+<p align="center">
+  <a href="https://youtu.be/2MioR7f-5Vo?si=2QtW7p5K0Yb4B12V" target="_blank">
+    <img src="https://img.youtube.com/vi/2MioR7f-5Vo/0.jpg" alt="PCOSense Demo Video" width="600"/>
+    <br>
+    <strong>▶️ Click to Watch the PCOSense Demo</strong>
+  </a>
+</p>
 
-* [✨ About PCOSense](#-about-pcosense)
+<details>
+<summary><strong>📑 Table of Contents (click to expand)</strong></summary>
 
-* [🌟 Key Features](#-key-features)
+- [✨ About PCOSense](#-about-pcosense)
+- [🌟 Key Features](#-key-features)
+- [📱 App Screenshots & Demos](#-app-screenshots--demos)
+- [⚙️ Backend System Visuals](#️-backend-system-visuals)
+- [🏗️ Architecture Overview](#️-architecture-overview)
+- [💻 Technology Stack](#-technology-stack)
+- [🚀 Setup and Installation](#-setup-and-installation)
+- [👥 Team Members](#-team-members)
+- [🙏 Acknowledgements](#-acknowledgements)
 
-* [📱 App Screenshots & Demos](#-app-screenshots--demos)
-
-* [⚙️ Backend System Visuals](#️-backend-system-visuals)
-
-* [🏗️ Architecture Overview](#️-architecture-overview)
-
-* [💻 Technology Stack](#-technology-stack)
-
-* [🚀 Setup and Installation](#-setup-and-installation)
-
-* [👥 Team Members](#-team-members)
-
-* [🙏 Acknowledgements](#-acknowledgements)
+</details>
 
 ---
-
 ## ✨ About PCOSense: Your Journey, Empowered by AI ✨
 
 <p align="center">
