@@ -293,6 +293,10 @@ flutter run
 
 * **[Jothika K](https://github.com/Jothika1526)**
 * **[Namithaa V](https://github.com/github0710)**
+  
+## License 📜
+This project is **open-source** under the [MIT License](LICENSE).
+
 
 ## 🙏 Acknowledgements
 
