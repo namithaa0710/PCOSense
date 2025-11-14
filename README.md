@@ -295,7 +295,7 @@ flutter run
 * **[Namithaa V](https://github.com/github0710)**
   
 ## License 📜
-This project is **open-source** under the [MIT License](LICENSE).
+This project is **open-source** under the [License](LICENSE).
 
 
 ## 🙏 Acknowledgements
