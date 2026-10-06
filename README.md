@@ -62,7 +62,7 @@ PCOSense is a mobile app revolutionizing PCOS management. We offer **AI-driven t
 ## 🏗️ Architecture Overview
 
 <p align="center">
-  <img src="images/PCOSense.png" alt="PCOSense Architecture Diagram"/>
+  <img src="images/PCOSense_1.png" alt="PCOSense Architecture Diagram"/>
   <br>
   <i>A high-level overview of the PCOSense application architecture.</i>
 </p>
